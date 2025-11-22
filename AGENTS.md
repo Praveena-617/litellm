@@ -1,4 +1,4 @@
-# INSTRUCTIONS FOR LITELLM
+# INSTRUCTIONS FOR LITELLM.
 
 This document provides comprehensive instructions for AI agents working in the LiteLLM repository.
 
